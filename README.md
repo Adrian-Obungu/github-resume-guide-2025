@@ -22,5 +22,6 @@ Welcome to my guide on building a GitHub resume! This project is designed to hel
 
 The full, downloadable PDF of this guide is available for those who prefer offline reference or want a printout to follow along.
 
-[Download GitHub Resume Guide PDF](link_to_pdf)
+[Download GitHub Resume Guide 2025.pdf](https://github.com/user-attachments/files/18436145/GitHub.Resume.Guide.2025.pdf)
+
 
